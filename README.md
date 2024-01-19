@@ -6,6 +6,14 @@
 >**Storage Room**
  - Storage Room a room that contains all the supplies to sustain the base and the humans that are living in it. Anybody can access the storage room.
 >**Work Shop**
- - Work Shop nicknamed Creation Room by the people in Base-51, is a room which is crutial to not only the survival of the people in the base but, also to the sucess of UPA Mission. The Work Shop is a restricted area and only    Rank 3 and above can enter this room due to it's importance.
+ - Work Shop nicknamed CR by the people in Base-51, is a room which is crutial to not only the survival of the people in the base but, also to the sucess of UPA Mission. The Work Shop is a restricted area and only    Rank 3 
+   and above can enter this room due to it's importance.
 >**Garage**
- - Garage the room where the rover is located and and entrance and exit in the base nicknamed as GEEB. 
+ - Garage the room where the rover is located and and entrance and exit in the base nicknamed as GERBE. The Garage can be accessed by anyone in the  base but, the bunker which houses the entrace to the Reactor can only be    
+   accessed by Rank 3 and above but, in emergancy cases Rank 3 and above can enter the Reactor room. The Bunker has confidential information and can only be accessed by Rank 4 and above but in an emergancy Rank 2 and up can 
+   access the Bunker.
+>**Aircraft Base**
+ - The Aircraft Base nicknamed ABTransit is the area where aircraft can launch and take off from on Base-51. The Aircraft Base can also be used to repair any aircraft that is damaged. Though aircraft can be repired in    
+   Base-51 the air space that surrounds Base-51 in a 1 Nio radius. Though the aircraft base can be accessed by any Rank the buildings can only be accessed by Rank 2 and above.
+>**Training Base**
+ - The Traning Base nicknamed The Deleter can only be accessed by Rank 3 and above. If a Rank 1 or 2 is found in the Training Base without any supervision the Rank 2 will be imprisioned for interogation and will be fired        and their memories wiped. While if a Rank 1 is found without supervision the Rank 1 will be killed on the spot (NO MERCY WILL BE SHOWED). 
