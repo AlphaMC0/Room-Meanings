@@ -23,4 +23,4 @@
 >**Reactor**
  - Reactor nicknamed The Heart, made of a clump of mithril turned into a miniature star. The Reactor is a higly restricted area only Rank 4 and above can enter,but if under attack Rank 3 is permitted to enter to defend the    personel and the reactor from blowing up. If a Rank 2 is found near or in the reactor control room they will be imprisoned and their memory wiped, but if a Rank 1 is found near or in the Reactor Room they will be killed    on the spot (NO MERCY WILL BE SHOWED).
 >**Control Base**
- - Control Base or The Brain, is the area where the base is controled from.
+ - Control Base or The Brain, hosts the main system/database for the base it's in control of. The Control base contains servers controlpanels and some chests to repair any damages. It also contains lockers and sleeping areas    so the workers can rest it also has a holgram table that shows the rough outline of the terrain surrounding the base.
